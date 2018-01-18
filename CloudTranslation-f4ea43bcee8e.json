@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cloudtranslation-188906",
+  "private_key_id": "f4ea43bcee8e781d3f25334db94302114782a532",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDXQG/LERzFBP25\n9b+VJLGzj7X3cD9Lb/znIZ0SOeLorwOj7Ig99weAxy2+joJe5mGIpCocYo9UlJbb\nt0vMmK487oe6Oz+aZ8r9Gk7Fy6Jttsme0yXYvd5AD/qD/HfffusyVPqECcw0wi5C\nEgWsOVD6ImSrvgvaZyWxos04YpCSA2YnGZAaILAOwkNbcziVKh7PzjW8TJ3cvpbe\n/WrmgZn8ijKoaxkPsTvql1qXMJdeYIZXa4b6L/lGAydCUMIyoRQ03mG8poZq6LHq\nCi0kOFGM7PjPqBOugM+LSRBHn7Av25JZIgcznTAZp896PkKHSGPEh5vw4Weuh/OJ\nLuLcRpqbAgMBAAECggEAX2vAw0AMRWi/g7rl2ZthLU0VaSH45Ru5fMrBYy2HIghH\nsFjwUqvaRyPE6xcowyIU9ap0wo2MpX2TXMZmU0YR45AIWi3etbeyXD5X0kZB9KoV\nuhM3UVxmFHcg4na+uzR71h2myna/cFnugLqVijIEbEZn41yFy6VzJ8qYeBj1pswL\nwPJOPDHCMiMS++s1TMM/od2DiJ0dWSDtvU0Pw2Sslx5k1EkZtytEyOVuk4Y49sWz\neXEs60N+By3pNQYsFrIqmHrLn5Ad5s5tJZVG4UKmGvlhA9zbbdxEOjm5VTOkoaTl\nYDZQZMIO07TbUBjqEshE1DaWUr6IPPbqzs+vsVefaQKBgQDwxW0ntMErU+1mmR3t\nhyT21kt2TJmoaqXakMlvWk3kSu+d+mpdOm0i4St5juqs84z9gEq5/YVG/79P42SO\nTlBu8K/isMVekdVkjl9thESwYQH3fq43ES8t6Kx8ruTf70F2Fnes7zAmSLy3l1Fe\nv9Obe9YugkjIBbbJozvuO4+uKQKBgQDk3cxLpeV4MRguoenZ2zq9mX91IY+CiRIN\nmF4wlLStTXEvJoUsLdT2IwoQ07am3ytU2/gDTWv6HT0TMGuazvmz+L8GFyE+NCiL\nBHRayd5NXO7OtX7w+e6MVmnX0kLYNOwDrMzGOg85evRu98IqQLpJnMrD1yOBBXu0\nvtxWCSbTIwKBgQCaMaW1PxJS4D3ybe73towatKTBT088x4gOEJmggZHOuZr5bmz9\n5bQNGW1RPRDX0GYj1yyELnNTQ+hOjk9Qv6DNW8EYiaLs7LJf4roEliezWXz79po1\n1ACGAzOr6gnTzBL9QGhGTSxl6EFLxlGrP2iSc914DaH0z4v/WFXCPUzH+QKBgQCM\n4K6BnkOrAWVmRwpgrN7ymIrpedgRvPgc4D6SXub8il/yax6sfCXLwPPQOdID0/mj\nSafXuI+PrPHMXxDNgTwZeTN0t0YiOQ7/y6UnwX0SV/Mz0GqsQNyDDCoozGeTGLhy\n5qpCFrkKY9IUgHPHeIJzD42MkWBsagik0JtmZkm8ywKBgGp96ByUoaQ2eirEVtc9\nI+aHMoNPzIx/wilcAOGLPEHBJscVXhEj7R6Shnl78MyWfYeE/+SmLXSc0P70rTdK\nVyXXgKCZcDmWgOFwOIfe+q7fsv+dguAadaD1zLZEXvH6GEDOJq96N3/lUe/tizOz\nISe5LAlNAG7pemT1CHx7JopN\n-----END PRIVATE KEY-----\n",
+  "client_email": "trans-api-auth-key@cloudtranslation-188906.iam.gserviceaccount.com",
+  "client_id": "116875913607747801353",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/trans-api-auth-key%40cloudtranslation-188906.iam.gserviceaccount.com"
+}
